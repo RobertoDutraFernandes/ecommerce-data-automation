@@ -1,0 +1,14 @@
+venv/
+.env/
+__pycache__/
+*.pyc
+Output/
+*.xlsx
+.env
+.env.local
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+chromedriver.exe
